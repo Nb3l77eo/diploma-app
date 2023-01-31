@@ -1,0 +1,4 @@
+apiVersion: v1
+description: chart 4 diploma app - nginx
+name: diploma-app
+version: ${ver}
